@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 import illustrationImg from "../../assets/images/illustration.svg";
 import logoImg from "../../assets/images/logo.svg";
 // import { useAuth } from "../../hooks/useAuth";
-
 import "../../styles/auth.scss";
+
 import { Button } from "../Button";
 
 export function NewRoom() {
